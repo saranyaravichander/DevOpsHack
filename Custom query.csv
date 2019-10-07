@@ -1,0 +1,5 @@
+﻿Work Item Type,Title,Assigned To,State,Area Path,Tags,Comment Count
+Task,Deploy to Azure,,New,Novant HackEvent,,0
+Task,Implement web app,,New,Novant HackEvent,,0
+User Story,Web application User story,,New,Novant HackEvent,,0
+Feature,Web Application talking to SQL,,New,Novant HackEvent,,0
